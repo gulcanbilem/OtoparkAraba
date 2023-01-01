@@ -1,0 +1,8 @@
+C:\Users\gulca\OneDrive\Masaüstü\OtoparkBorc\obj\Debug\OtoparkBorc.csproj.AssemblyReference.cache
+C:\Users\gulca\OneDrive\Masaüstü\OtoparkBorc\obj\Debug\OtoparkBorc.csproj.SuggestedBindingRedirects.cache
+C:\Users\gulca\OneDrive\Masaüstü\OtoparkBorc\obj\Debug\OtoparkBorc.csproj.CoreCompileInputs.cache
+C:\Users\gulca\OneDrive\Masaüstü\OtoparkBorc\bin\Debug\OtoparkBorc.exe.config
+C:\Users\gulca\OneDrive\Masaüstü\OtoparkBorc\bin\Debug\OtoparkBorc.exe
+C:\Users\gulca\OneDrive\Masaüstü\OtoparkBorc\bin\Debug\OtoparkBorc.pdb
+C:\Users\gulca\OneDrive\Masaüstü\OtoparkBorc\obj\Debug\OtoparkBorc.exe
+C:\Users\gulca\OneDrive\Masaüstü\OtoparkBorc\obj\Debug\OtoparkBorc.pdb
